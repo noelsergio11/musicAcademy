@@ -3894,15 +3894,5 @@
 			#cta {
 				padding: 2.5em 1em 3em 1em;
 			}
-		.piano-img {
-  width: 50%; /* o 600px si prefieres un tamaño fijo */
-  max-width: 600px; /* evita que se pase en pantallas grandes */
-  height: auto;
-  display: block;
-  margin: 0 auto; /* centra horizontalmente */
-  border-radius: 8px; /* opcional: bordes redondeados */
-  object-fit: cover;
-}
-
-
+		
 	}
